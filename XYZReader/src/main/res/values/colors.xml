@@ -1,0 +1,11 @@
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+    <color name="primaryDark">#AB47BC</color>
+    <color name="colorPrimary">#7B1FA2</color>
+    <color name="backgroundColor">#E1BEE7</color>
+
+    <color name="colorAccent">#D50000</color>
+    <color name="article_subtitle">#4A148C</color>
+    <color name="article_byline">#fff</color>
+    <color name="textBodyColor">#000</color>
+</resources>
