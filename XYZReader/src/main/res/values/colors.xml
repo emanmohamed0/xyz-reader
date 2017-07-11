@@ -1,7 +1,7 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
-    <color name="primaryDark">#AB47BC</color>
-    <color name="colorPrimary">#7B1FA2</color>
+    <color name="primaryDark">#7B1FA2</color>
+    <color name="colorPrimary">#AB47BC</color>
     <color name="backgroundColor">#E1BEE7</color>
 
     <color name="colorAccent">#D50000</color>
